@@ -255,6 +255,9 @@ const rules = {
 
 	"https://www.gstatic.com/images/branding/product/1x/sites_2020q4_48dp.png": "icons/sites_2020q4_48dp.png",
 	"https://www.gstatic.com/images/branding/product/2x/sites_2020q4_48dp.png": "icons/sites_2020q4_48dp@2x.png"
+
+	/* Chat */
+	"https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_chat_default_1x.png": 
 }
 
 browser.webRequest.onBeforeRequest.addListener(
